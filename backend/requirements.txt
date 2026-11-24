@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+speechrecognition
+pyttsx3
+pyaudio
+pyautogui
+requests
+psutil
+pygetwindow
+pywin32
+ollama
